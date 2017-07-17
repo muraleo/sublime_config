@@ -7,8 +7,11 @@
 	[
 		"Anaconda",
 		"Colorsublime",
+		"Git",
 		"Package Control",
+		"RailsCasts Colour Scheme",
 		"SideBarEnhancements",
-		"SublimeREPL"
+		"SublimeREPL",
+		"SyncedSideBar"
 	]
 }
